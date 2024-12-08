@@ -11,4 +11,4 @@ rootProject.name = 'auto_switch_elytra'
 
 include 'common'
 include 'fabric'
-include 'neoforge'
+//include 'neoforge'
